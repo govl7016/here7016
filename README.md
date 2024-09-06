@@ -41,4 +41,4 @@
 - "The Second Mountain" by David Brooks
 
 
-[![koorukuroo's github stats](https://github-readme-stats.vercel.app/api?username=koorukuroo&show_icons=true)](https://github.com/koorukuroo/koorukuroo)
+[![govl7016's github stats](https://github-readme-stats.vercel.app/api?username=govl7016&show_icons=true)](https://github.com/govl7016/govl7016)
