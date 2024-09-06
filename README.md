@@ -3,6 +3,7 @@
 
 ## 🤩 Final Vocabulary
 **"Simplicity, 단순함"**
+why?
 <br />
 
 ## 🤔 키워드
