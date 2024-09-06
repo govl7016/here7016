@@ -3,7 +3,7 @@
 
 ## 🤩 Final Vocabulary
 **"Simplicity, 단순함"**<br />
-why?
+본질에서 벗어나지 않는 것.
 <br />
 
 ## 🤔 키워드
