@@ -1,5 +1,4 @@
 ### 반갑습니다, 라수빈입니다!
-![Uploading image.png…]()
 
 
 
