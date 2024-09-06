@@ -2,7 +2,7 @@
 프로필 사진 추가 예정
 
 ## 🤩 Final Vocabulary
-**"Simplicity, 단순함"**
+**"Simplicity, 단순함"**<br />
 why?
 <br />
 
