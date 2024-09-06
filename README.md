@@ -18,7 +18,7 @@
 
 
 ## 🚀 경험
-
+- 
 
 
 ## 🛠 기술 스택
@@ -26,7 +26,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **프레임워크**: Bootstrap
-<i class="bi bi-github"></i>
+![Bootstrap] (https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 
 ## 📚 영화
