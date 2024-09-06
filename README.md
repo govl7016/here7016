@@ -20,7 +20,7 @@
 -
 <br />
 
-## 🛠 기술 스택
+## 😎 기술 스택
 - **언어**: Python, JavaScript
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
