@@ -34,6 +34,8 @@
 - **투자자산운용사** (취득일: 2024년 06월)
 - **ADsP (데이터 분석 준전문가)** (취득일: 2024년 08월)
 - **SQLD (SQL 개발자)** (취득일: 2024년 08월)
+<br />
+
 ## 😎 기술 스택
 - **언어**: Python, HTML5, CSS3, JavaScript, C
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
