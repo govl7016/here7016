@@ -1,4 +1,5 @@
 ### 반갑습니다, 라수빈입니다!
+<br />
 
 ## 🤩 Final Vocabulary
 **"Simplicity 단순함, 본질에 집중하는 것"**<br />
