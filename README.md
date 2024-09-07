@@ -2,8 +2,7 @@
 프로필 사진 추가 예정
 
 ## 🤩 Final Vocabulary
-**"Simplicity, 단순함"**<br />
-본질에서 벗어나지 않는 것.
+**"Simplicity, 본질에서 벗어나지 않는 것"**<br />
 <br />
 
 ## 🤔 키워드
