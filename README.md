@@ -2,7 +2,7 @@
 ### 라수빈입니다.
 
 ## 🤩 Final Vocabulary
-**Simplicity 단순함: 본질에 집중하는 것**<br />
+**"Simplicity 단순함: 본질에 집중하는 것"**<br />
 <br />
 
 ## 🤔 핵심 가치
