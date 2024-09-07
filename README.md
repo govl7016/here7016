@@ -5,7 +5,7 @@
 **"Simplicity 단순함, 본질에 집중하는 것"**<br />
 <br />
 
-## 🤔 중요 가치
+## 🤔 핵심 가치
 - 진부함
 - 책임감
 - 존중
@@ -15,7 +15,8 @@
 - **졸업 프로젝트**
   - <단어 간의 유사도 추정을 위한 인공신경망을 활용한 감정분석 다이어리> 웹 프론트엔드 개발
   - 현대인들의 가면성 우울증 완화를 위한 서비스 기획
-  - 교내 창의설계 경진대회 최우수상 및 인기상 수상
+  - 교내 창의설계 경진대회 최우수상 수상
+  - 교내 창의설계 경진대회 인기상 수상
 - **알바왕**
   - 10가지 이상의 서비스직 아르바이트 경험
   - 다양한 배경의 사람들과 의사소통
@@ -35,9 +36,12 @@
 <br />
 
 ## 😎 기술 스택
-- **언어**: Python, HTML5, CSS3, JavaScript
+- **언어**: Python, HTML5, CSS3, JavaScript, C
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 - **프레임워크**: Bootstrap
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
