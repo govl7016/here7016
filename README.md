@@ -14,13 +14,17 @@
 ## 🤗 경험 
 - **졸업 프로젝트**
   - <단어 간의 유사도 추정을 위한 인공신경망을 활용한 감정분석 다이어리> 웹 프론트엔드 개발
+  - 현대인들의 가면성 우울증 완화를 위한 서비스 기획
+  - 교내 창의설계 경진대회 최우수상 및 인기상 수상
 - **알바왕**
   - 10가지 이상의 서비스직 아르바이트
+  - 다양한 배경의 사람들과의 만남
+  - 무조건적인 고객지향 마인드
 <br />
 
 ## 😭 좋아하는 영화
 - <8 Mile>
--
+- 
 <br />
 
 ## 😙 자격증
@@ -31,7 +35,7 @@
 <br />
 
 ## 😎 기술 스택
-- **언어**: Python, HTML, CSS, JavaScript
+- **언어**: Python, HTML5, CSS3, JavaScript
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **프레임워크**: Bootstrap
