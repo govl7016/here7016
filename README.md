@@ -17,14 +17,16 @@
   - 현대인들의 가면성 우울증 완화를 위한 서비스 기획
   - 교내 창의설계 경진대회 최우수상 및 인기상 수상
 - **알바왕**
-  - 10가지 이상의 서비스직 아르바이트 경험
+  - 10가지 이상의 서비스직 아르바이트 경험 : 다양한 고객 요구에 대응
   - 다양한 배경의 사람들과 의사소통
-  - 무조건적인 고객지향 마인드
+  - 고객 지향 마인드 유지
 <br />
 
 ## 😭 추천 영화
 - 8 마일 (2002) – 감독: 커티스 핸슨, 주연: 에미넴, 장르: 드라마.
+  - **추천 이유**: 
 - 브루스 올마이티 (2003) – 감독: 톰 셔디악, 주연: 짐 캐리, 장르: 코미디.
+  - **추천 이유**: 
 <br />
 
 ## 😙 자격증
@@ -43,6 +45,8 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 - **프레임워크**: Bootstrap
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- **추가 기술**: SQL
+  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)
 
 
 [![govl7016's github stats](https://github-readme-stats.vercel.app/api?username=govl7016&show_icons=true)](https://github.com/govl7016/govl7016)
